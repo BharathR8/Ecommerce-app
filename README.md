@@ -1,4 +1,4 @@
-# ecommerce shop
+# ecommerce app
 
 A Shopping Website build with Angular 4 and Firebase.
 
